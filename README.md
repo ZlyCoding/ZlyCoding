@@ -1,6 +1,6 @@
 <!-- Profil Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=50&font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B8B&lines=👋+Halo,+saya+ZlyCoding;Membuat+sesuatu+yang+bermanfaat" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=50&font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B8B&lines=👋+Halo,+saya+ZlyCoding;Senang+membuat+sesuatu+yang+bermanfaat" alt="Typing SVG">
 </p>
 
 ---
