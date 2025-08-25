@@ -1,9 +1,12 @@
 <!-- Profil Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=50&font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B8B&lines=👋+Halo,+saya+ZlyCoding;Senang+membuat+sesuatu+yang+bermanfaat" alt="Typing SVG">
-</p>
+<div align="center" style="margin-bottom: 12px;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=70&font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B8B&lines=👋+Halo,+saya+ZlyCoding;Senang+membuat+sesuatu+yang+bermanfaat"
+    alt="Typing SVG"
+  />
+</div>
 
----
+<hr style="margin: 16px 0;" />
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -14,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZlyCoding&theme=radical&hide_border=true" alt="ZlyCoding Streak" />
 </p>
 
----
+<hr style="margin: 16px 0;" />
 
 <!-- Footer -->
 <p align="center">
