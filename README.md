@@ -19,6 +19,16 @@
 
 <hr style="margin: 16px 0;" />
 
+<!-- Tech Stack -->
+<h3 align="center">⚡ Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+<hr style="margin: 16px 0;" />
+
 <!-- Footer -->
 <p align="center">
   <sub>💻 Dibuat dengan ❤️ oleh <b>ZlyCoding</b></sub>
